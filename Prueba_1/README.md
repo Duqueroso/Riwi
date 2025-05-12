@@ -8,5 +8,5 @@
 - EJEMPLOS DE ENTRADA Y SALIDA
 ---
 Lo primero que veras al iniciar el programa, seria esto:
-[INICIO] - Duqueroso/Riwi/Prueba_1/1.png
+- [INICIO](https://github.com/Duqueroso/Riwi/blob/main/Prueba_1/1.png)
   
