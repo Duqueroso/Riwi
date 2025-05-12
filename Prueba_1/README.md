@@ -19,8 +19,8 @@ Si la opción es la 5, nos dara unicamente la salida de la operación indicada.
 - ![TOTAL](3.png)
 ---
 
--Así de esta forma podemos interactuar con nuestro programa, donde le entregamos datos que el requiere para
--operar y nos devuelve datos que necesitamos.
+- Así de esta forma podemos interactuar con nuestro programa, donde le entregamos datos que el requiere para
+- operar y nos devuelve datos que necesitamos.
 
--Almacenando todo en una lista, dividida por diccionarios que cada uno representa un producto con sus detalles.
+- Almacenando todo en una lista, dividida por diccionarios que cada uno representa un producto con sus detalles.
 
