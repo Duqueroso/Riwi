@@ -9,4 +9,11 @@
 ---
 Lo primero que veras al iniciar el programa, seria esto:
 - ![INICIO](1.png)
-  
+
+Luego de aplicar una opcion (En este caso la 1) nos pedira mas ingreso de datos para cumplir su funcion:
+- ![ADD](2.png)
+
+Y al final nos mostrara el producto agregado y si deseamos ingresar nuevo producto.
+
+Si la opción es la 5, nos dara unicamente la salida de la operación indicada.
+- ![TOTAL](3.png)
